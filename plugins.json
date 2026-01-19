@@ -131,7 +131,7 @@
         "version": 31,
         "name": "StreamingCommunity",
         "internalName": "StreamingCommunity",
-        "author": [
+        "authors": [
             "-END-"
         ],
         "description": "Film e SerieTV da StreamingCommunity",
@@ -153,7 +153,7 @@
         "version": 4,
         "name": "TV",
         "internalName": "TV",
-        "author": [
+        "authors": [
             "-END-"
         ],
         "description": "TV live da TV github repository",
