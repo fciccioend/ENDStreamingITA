@@ -49,7 +49,7 @@ class StreamingCommunity : MainAPI() {
             "X-Inertia-Version" to inertiaVersion,
             "X-Requested-With" to "XMLHttpRequest",
         ).toMutableMap()
-        val mainUrl = "https://www.youtube.com"
+        val mainUrl = "https://questodominiononesiste12345.com"
         //https://streamingunity.so/it
         var name = "StreamingCommunity"
         val TAG = "SCommunity"
