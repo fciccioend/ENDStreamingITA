@@ -128,7 +128,7 @@
     {
         "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/StreamingCommunity.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "StreamingCommunity",
         "internalName": "StreamingCommunity",
         "authors": [
@@ -145,7 +145,8 @@
             "Documentary",
             "Cartoon"
         ],
-        "iconUrl": "https://streamingunity.so/apple-touch-icon.png?v=2",
+        "iconUrl": "test.com",
+        //https://streamingunity.so/apple-touch-icon.png?v=2
         "apiVersion": 1
     },
     {
