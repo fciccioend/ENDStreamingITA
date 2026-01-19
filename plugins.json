@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/AltaDefinizione.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/AltaDefinizione.cs3",
         "status": 1,
         "version": 14,
         "name": "AltaDefinizione",
@@ -22,7 +22,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/AnimeUnity.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/AnimeUnity.cs3",
         "status": 1,
         "version": 15,
         "name": "AnimeUnity",
@@ -43,7 +43,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/AnimeWorld.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/AnimeWorld.cs3",
         "status": 1,
         "version": 16,
         "name": "AnimeWorld",
@@ -65,7 +65,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/CalcioStreaming.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/CalcioStreaming.cs3",
         "status": 1,
         "version": 12,
         "name": "CalcioStreaming",
@@ -85,7 +85,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/CB01.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/CB01.cs3",
         "status": 1,
         "version": 23,
         "name": "CB01",
@@ -107,7 +107,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/Huhu.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/Huhu.cs3",
         "status": 1,
         "version": 4,
         "name": "Huhu",
@@ -125,7 +125,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/StreamingCommunity.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/StreamingCommunity.cs3",
         "status": 1,
         "version": 31,
         "name": "StreamingCommunity",
@@ -147,7 +147,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/TV.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/TV.cs3",
         "status": 1,
         "version": 4,
         "name": "TV",
