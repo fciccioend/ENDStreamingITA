@@ -27,8 +27,7 @@
         "version": 15,
         "name": "AnimeUnity",
         "internalName": "AnimeUnity",
-        "authors": [
-            "doGior",
+        "author": [
             "-END-"
         ],
         "description": "Anime da AnimeUnity",
@@ -131,7 +130,7 @@
         "version": 31,
         "name": "StreamingCommunity",
         "internalName": "StreamingCommunity",
-        "authors": [
+        "author": [
             "-END-"
         ],
         "description": "Film e SerieTV da StreamingCommunity",
@@ -153,7 +152,7 @@
         "version": 4,
         "name": "TV",
         "internalName": "TV",
-        "authors": [
+        "author": [
             "-END-"
         ],
         "description": "TV live da TV github repository",
