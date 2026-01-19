@@ -27,9 +27,7 @@
         "version": 15,
         "name": "AnimeUnity",
         "internalName": "AnimeUnity",
-        "author": [
-            "-END-"
-        ],
+        "author": "-END-",
         "description": "Anime da AnimeUnity",
         "fileSize": 35495,
         "repositoryUrl": "https://github.com/fciccioend/ENDStreamingITA",
