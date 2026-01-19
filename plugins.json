@@ -1,39 +1,39 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/AltaDefinizione.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/AltaDefinizione.cs3",
         "status": 1,
         "version": 14,
         "name": "AltaDefinizione",
         "internalName": "AltaDefinizione",
         "authors": [
             "doGior",
-            "DieGon"
+            "-END-"
         ],
         "description": "Film e SerieTV da Altadefinizione",
         "fileSize": 21834,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "repositoryUrl": "https://github.com/fciccioend/ENDStreamingITA",
         "language": "it",
         "tvTypes": [
             "Movie",
             "TvSeries",
             "Documentary"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/AltaDefinizione/altadefinizione_icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/master/AltaDefinizione/altadefinizione_icon.png",
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/AnimeUnity.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/AnimeUnity.cs3",
         "status": 1,
         "version": 15,
         "name": "AnimeUnity",
         "internalName": "AnimeUnity",
         "authors": [
             "doGior",
-            "DieGon"
+            "-END-"
         ],
         "description": "Anime da AnimeUnity",
         "fileSize": 35495,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "repositoryUrl": "https://github.com/fciccioend/ENDStreamingITA",
         "language": "it",
         "tvTypes": [
             "AnimeMovie",
@@ -44,18 +44,18 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/AnimeWorld.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/AnimeWorld.cs3",
         "status": 1,
         "version": 16,
         "name": "AnimeWorld",
         "internalName": "AnimeWorld",
         "authors": [
             "doGior",
-            "DieGon"
+            "-END-"
         ],
         "description": "Anime da AnimeWorld",
         "fileSize": 37465,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "repositoryUrl": "https://github.com/fciccioend/ENDStreamingITA",
         "language": "it",
         "tvTypes": [
             "AnimeMovie",
@@ -66,59 +66,59 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/CalcioStreaming.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/CalcioStreaming.cs3",
         "status": 1,
         "version": 12,
         "name": "CalcioStreaming",
         "internalName": "CalcioStreaming",
         "authors": [
             "doGior",
-            "DieGon"
+            "-END-"
         ],
         "description": "Live streams da CalcioStreaming",
         "fileSize": 12752,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "repositoryUrl": "https://github.com/fciccioend/ENDStreamingITA",
         "language": "it",
         "tvTypes": [
             "Live"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/CalcioStreaming/calcio_icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/master/CalcioStreaming/calcio_icon.png",
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/CB01.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/CB01.cs3",
         "status": 1,
         "version": 23,
         "name": "CB01",
         "internalName": "CB01",
         "authors": [
             "doGior",
-            "DieGon"
+            "-END-"
         ],
         "description": "Film e SerieTV da CB01",
         "fileSize": 29908,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "repositoryUrl": "https://github.com/fciccioend/ENDStreamingITA",
         "language": "it",
         "tvTypes": [
             "Movie",
             "TvSeries",
             "Cartoon"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/CB01/cb01_icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/master/CB01/cb01_icon.png",
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/Huhu.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/Huhu.cs3",
         "status": 1,
         "version": 4,
         "name": "Huhu",
         "internalName": "Huhu",
         "authors": [
-            "DieGon"
+            "-END-"
         ],
         "description": "Canali TV da Huhu",
         "fileSize": 23523,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "repositoryUrl": "https://github.com/fciccioend/ENDStreamingITA",
         "tvTypes": [
             "Live"
         ],
@@ -126,18 +126,18 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/StreamingCommunity.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/StreamingCommunity.cs3",
         "status": 1,
         "version": 31,
         "name": "StreamingCommunity",
         "internalName": "StreamingCommunity",
         "authors": [
             "doGior",
-            "DieGon"
+            "-END-"
         ],
         "description": "Film e SerieTV da StreamingCommunity",
         "fileSize": 41743,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "repositoryUrl": "https://github.com/fciccioend/ENDStreamingITA",
         "language": "it",
         "tvTypes": [
             "TvSeries",
@@ -149,56 +149,17 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/Stremio.cs3",
-        "status": 3,
-        "version": 9,
-        "name": "Stremio",
-        "internalName": "Stremio",
-        "authors": [
-            "Hexated, phisher98, DieGon"
-        ],
-        "description": "ATTUALMENTE IN FASE BETA\n\n[!] Configurazione Richiesta\n- StremioX: per utilizzare addons di streaming\n- StremioC: per utilizzare addons di catalogo",
-        "fileSize": 112114,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
-        "language": "it",
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/Stremio/stremio_icon.png",
-        "apiVersion": 1
-    },
-    {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/SyncStream.cs3",
-        "status": 3,
-        "version": 4,
-        "name": "SyncStream",
-        "internalName": "SyncStream",
-        "authors": [
-            "RowdyRushya, Phisher98, DieGon"
-        ],
-        "description": "Organizza homepage e sincronizza Continue Watching tra dispositivi",
-        "fileSize": 81510,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
-        "language": "it",
-        "tvTypes": [
-            "All"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SyncStream/SyncStream_icon.png",
-        "apiVersion": 1
-    },
-    {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/TV.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/TV.cs3",
         "status": 1,
         "version": 4,
         "name": "TV",
         "internalName": "TV",
         "authors": [
-            "DieGon"
+            "-END-"
         ],
         "description": "TV live da TV github repository",
         "fileSize": 27770,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "repositoryUrl": "https://github.com/fciccioend/ENDStreamingITA",
         "tvTypes": [
             "Live"
         ],
