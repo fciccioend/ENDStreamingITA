@@ -27,5 +27,6 @@ cloudstream {
     requiresResources = false
     language = "it"
 
-    iconUrl = "https://streamingunity.so/apple-touch-icon.png?v=2"
+    iconUrl = "test.com"
+//https://streamingunity.so/apple-touch-icon.png?v=2
 }
