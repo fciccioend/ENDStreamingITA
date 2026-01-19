@@ -128,11 +128,10 @@
     {
         "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/StreamingCommunity.cs3",
         "status": 1,
-        "version": 32,
+        "version": 31,
         "name": "StreamingCommunity",
         "internalName": "StreamingCommunity",
         "authors": [
-            "doGior",
             "-END-"
         ],
         "description": "Film e SerieTV da StreamingCommunity",
@@ -145,7 +144,7 @@
             "Documentary",
             "Cartoon"
         ],
-        "iconUrl": "test.com",
+        "iconUrl": "https://streamingunity.so/apple-touch-icon.png?v=2",
         "apiVersion": 1
     },
     {
