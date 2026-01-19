@@ -4,6 +4,6 @@
   "description": "Repository con provider prevalentemente italiani e alcuni internazionali",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/builds/plugins.json"
+    "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/plugins.json"
   ]
 }
