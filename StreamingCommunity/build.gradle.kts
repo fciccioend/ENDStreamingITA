@@ -6,7 +6,7 @@ cloudstream {
     // All of these properties are optional, you can safely remove them
 
     description = "Film e SerieTV da StreamingCommunity"
-    authors = listOf("doGior","DieGon")
+    authors = listOf("doGior","-END-")
 
     /**
     * Status int as the following:
