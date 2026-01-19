@@ -6,7 +6,7 @@ cloudstream {
     // All of these properties are optional, you can safely remove them
 
     description = "Film e SerieTV da StreamingCommunity"
-    authors = listOf("doGior","-END-")
+    authors = listOf("-END-")
 
     /**
     * Status int as the following:
@@ -27,6 +27,5 @@ cloudstream {
     requiresResources = false
     language = "it"
 
-    iconUrl = "test.com"
-//https://streamingunity.so/apple-touch-icon.png?v=2
+    iconUrl = "https://streamingunity.so/apple-touch-icon.png?v=2"
 }
