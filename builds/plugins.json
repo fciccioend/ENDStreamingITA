@@ -14,7 +14,7 @@
             "TvSeries",
             "Documentary"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "AltaDefinizione",
         "description": "Film e SerieTV da Altadefinizione",
         "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/builds/AltaDefinizione.cs3",
