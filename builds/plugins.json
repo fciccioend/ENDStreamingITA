@@ -38,7 +38,7 @@
         "version": 15,
         "internalName": "AnimeUnity",
         "description": "Anime from AnimeUnity",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeUnity.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/builds/AnimeUnity.cs3",
         "name": "AnimeUnity"
     },
     {
@@ -60,7 +60,7 @@
         "version": 16,
         "internalName": "AnimeWorld",
         "description": "Anime from AnimeWorld. This plugin is a fork of the AnimeWorld plugin in the ItalianProvider repo",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeWorld.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/builds/AnimeWorld.cs3",
         "name": "AnimeWorld"
     },
     {
@@ -81,7 +81,7 @@
         "version": 7,
         "internalName": "CalcioStreaming",
         "description": "\u26a0\ufe0fUse AdGuard DNS in the app settings\u26a0\ufe0f Live streams from the CalcioStreaming. Forked from the CalcioStreaming plugin in the ItalianProvider repo",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/CalcioStreaming.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/builds/CalcioStreaming.cs3",
         "name": "CalcioStreaming"
     },
     {
@@ -102,7 +102,7 @@
         "version": 13,
         "internalName": "CB01",
         "description": "Movies and Shows from CB01",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/CB01.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/builds/CB01.cs3",
         "name": "CB01"
     },
     {
@@ -120,7 +120,7 @@
         "version": 16,
         "internalName": "DaddyLive",
         "description": "Live TV from DaddyLive. You might need a VPN",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/DaddyLive.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/builds/DaddyLive.cs3",
         "name": "DaddyLive"
     },
     {
@@ -138,7 +138,7 @@
         "version": 3,
         "internalName": "Huhu",
         "description": "TV channels from huhu.to",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Huhu.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/builds/Huhu.cs3",
         "name": "Huhu"
     },
     {
@@ -160,7 +160,7 @@
         "version": 24,
         "internalName": "StreamingCommunity",
         "description": "TV Shows and Movies from StreamingCommunity (now StreamingUnity)",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamingCommunity.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/builds/StreamingCommunity.cs3",
         "name": "StreamingCommunity"
     },
     {
@@ -180,7 +180,7 @@
         "version": 3,
         "internalName": "TV",
         "description": "Live streams from the Free TV github repository. Forked from the Free-TV plugin in the ItalianProvider repo",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/TV.cs3",
+        "url": "https://raw.githubusercontent.com/fciccioend/ENDStreamingITA/main/builds/TV.cs3",
         "name": "TV"
     }
 ]
